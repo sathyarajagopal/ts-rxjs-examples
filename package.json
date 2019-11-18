@@ -1,0 +1,16 @@
+{
+    "name": "ts-rxjs-subject-examples",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "build": "./node_modules/.bin/tsc index.ts"
+    },
+    "dependencies": {
+        "rxjs": "^6.5.3"
+    },
+    "devDependencies": {
+        "tslib": "1.9.0",
+        "ts-node": "8.3.0",
+        "typescript": "3.4.3"
+    }
+}
